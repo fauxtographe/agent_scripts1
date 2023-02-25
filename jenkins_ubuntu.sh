@@ -1,6 +1,6 @@
 #!/bin/bash
 
-#Author: Casey
+#Author: Casey P
 #Date: feb 2023
 #Description: Installation of jenkins on ubuntu
 
