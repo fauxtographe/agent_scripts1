@@ -30,3 +30,4 @@ sudo chown -R vagrant:vagrant /opt/sonarqube-9.3.0.51899
 cd /opt/sonarqube-x.x/bin/linux-x86-64 
 ./sonar.sh start
 
+#Done
